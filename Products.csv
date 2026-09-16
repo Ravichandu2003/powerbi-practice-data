@@ -1,0 +1,121 @@
+ProductID,ProductName,CategoryID
+1,Wireless Mouse,1
+2,Wireless Mouse - Variant 2,1
+3,Bluetooth Speaker,1
+4,Bluetooth Speaker - Variant 2,1
+5,USB-C Cable,1
+6,USB-C Cable - Variant 2,1
+7,Power Bank 10000mAh,1
+8,Power Bank 10000mAh - Variant 2,1
+9,Wired Earphones,1
+10,Wired Earphones - Variant 2,1
+11,Laptop Stand,1
+12,Laptop Stand - Variant 2,1
+13,Webcam HD,1
+14,Webcam HD - Variant 2,1
+15,Smartwatch Band,1
+16,Smartwatch Band - Variant 2,1
+17,Portable Charger,1
+18,Portable Charger - Variant 2,1
+19,Phone Case,1
+20,Phone Case - Variant 2,1
+21,Cotton T-Shirt,2
+22,Cotton T-Shirt - Variant 2,2
+23,Denim Jeans,2
+24,Denim Jeans - Variant 2,2
+25,Formal Shirt,2
+26,Formal Shirt - Variant 2,2
+27,Winter Jacket,2
+28,Winter Jacket - Variant 2,2
+29,Cotton Kurta,2
+30,Cotton Kurta - Variant 2,2
+31,Track Pants,2
+32,Track Pants - Variant 2,2
+33,Woolen Sweater,2
+34,Woolen Sweater - Variant 2,2
+35,Casual Shorts,2
+36,Casual Shorts - Variant 2,2
+37,Printed Saree,
+38,Printed Saree - Variant 2,2
+39,Rain Jacket,2
+40,Rain Jacket - Variant 2,2
+41,Non-stick Pan,3
+42,Non-stick Pan - Variant 2,3
+43,Mixer Grinder,3
+44,Mixer Grinder - Variant 2,3
+45,LED Table Lamp,3
+46,LED Table Lamp - Variant 2,3
+47,Plastic Storage Box,3
+48,Plastic Storage Box - Variant 2,3
+49,Steel Water Bottle,3
+50,Steel Water Bottle - Variant 2,3
+51,Ceramic Dinner Set,3
+52,Ceramic Dinner Set - Variant 2,3
+53,Pressure Cooker,3
+54,Pressure Cooker - Variant 2,3
+55,Bed Sheet Set,3
+56,Bed Sheet Set - Variant 2,3
+57,Curtain Set,3
+58,Curtain Set - Variant 2,3
+59,Kitchen Knife Set,3
+60,Kitchen Knife Set - Variant 2,3
+61,Yoga Mat,4
+62,Yoga Mat - Variant 2,4
+63,Cricket Bat,4
+64,Cricket Bat - Variant 2,4
+65,Football,4
+66,Football - Variant 2,4
+67,Skipping Rope,4
+68,Skipping Rope - Variant 2,4
+69,Dumbbell Set 5kg,4
+70,Dumbbell Set 5kg - Variant 2,4
+71,Badminton Racket,4
+72,Badminton Racket - Variant 2,4
+73,Cycling Helmet,4
+74,Cycling Helmet - Variant 2,
+75,Gym Gloves,4
+76,Gym Gloves - Variant 2,4
+77,Resistance Bands,4
+78,Resistance Bands - Variant 2,4
+79,Table Tennis Set,4
+80,Table Tennis Set - Variant 2,4
+81,Fiction Novel,5
+82,Fiction Novel - Variant 2,5
+83,Cookbook,5
+84,Cookbook - Variant 2,5
+85,Self-Help Book,5
+86,Self-Help Book - Variant 2,5
+87,Children's Story Book,5
+88,Children's Story Book - Variant 2,5
+89,Biography,5
+90,Biography - Variant 2,5
+91,History Book,5
+92,History Book - Variant 2,5
+93,Comics Bundle,5
+94,Comics Bundle - Variant 2,5
+95,Poetry Collection,5
+96,Poetry Collection - Variant 2,5
+97,Travel Guide,5
+98,Travel Guide - Variant 2,5
+99,Business Book,5
+100,Business Book - Variant 2,5
+101,Face Wash,6
+102,Face Wash - Variant 2,6
+103,Moisturizer Cream,6
+104,Moisturizer Cream - Variant 2,6
+105,Matte Lipstick,6
+106,Matte Lipstick - Variant 2,6
+107,Herbal Shampoo,6
+108,Herbal Shampoo - Variant 2,6
+109,Sunscreen SPF50,6
+110,Sunscreen SPF50 - Variant 2,6
+111,Face Serum,
+112,Face Serum - Variant 2,6
+113,Hair Oil,6
+114,Hair Oil - Variant 2,6
+115,Body Lotion,6
+116,Body Lotion - Variant 2,6
+117,Perfume 50ml,6
+118,Perfume 50ml - Variant 2,6
+119,Nail Polish Set,6
+120,Nail Polish Set - Variant 2,6
